@@ -36,10 +36,22 @@ In this challenge we were asked to search how to redirect the standar input or o
 
 1. In your terminal run the command `./secondChallenge.ksh`
 
-**First Challenge Output**
+**Second Challenge Output**
 
-**First Challenge**
-**First Challenge Output**
+![Alt text](2C.PNG?raw=true "Title")
 
-**First Challenge**
-**First Challenge Output**
+**Third Challenge**
+
+The objective for thsi challenge was to move to a non existent directory, then create this file and print a successful message
+
+1. In your terminal run the command `./thirdChallenge.ksh`
+
+**Third Challenge Output**
+
+**Forth Challenge**
+
+The objective 
+
+1. In your terminal run the command `./forthChallenge.ksh`
+
+**Forth Challenge Output**
