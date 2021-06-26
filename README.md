@@ -28,8 +28,14 @@ This challenge was about to crate an alias for you to make things easyer.
 
 **First Challenge Output**
 
+![Alt text](1C.PNG?raw=true "Title")
 
-**First Challenge**
+**Second Challenge**
+
+In this challenge we were asked to search how to redirect the standar input or ouput and give an example
+
+1. In your terminal run the command `./secondChallenge.ksh`
+
 **First Challenge Output**
 
 **First Challenge**
