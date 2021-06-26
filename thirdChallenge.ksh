@@ -4,4 +4,4 @@ echo "move to a non existent directory, then create this file and print a succes
 
 ls *.ksh >> AllChallenges.txt ; echo "Your file was created successfully"
 
-head -n 4 AllOfChallenges.txt
+head -n 4 AllChallenges.txt
