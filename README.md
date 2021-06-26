@@ -28,7 +28,7 @@ This challenge was about to crate an alias for you to make things easyer.
 
 **First Challenge Output**
 
-![Alt text](1C.PNG?raw=true "Title")
+![Alt text](1C.PNG?raw=true "First")
 
 **Second Challenge**
 
@@ -38,7 +38,7 @@ In this challenge we were asked to search how to redirect the standar input or o
 
 **Second Challenge Output**
 
-![Alt text](2C.PNG?raw=true "Title")
+![Alt text](2C.PNG?raw=true "Second")
 
 **Third Challenge**
 
@@ -48,10 +48,14 @@ The objective for thsi challenge was to move to a non existent directory, then c
 
 **Third Challenge Output**
 
+![Alt text](3C.PNG?raw=true "Third")
+
 **Forth Challenge**
 
-The objective 
+The objective was to look for all `.ksh` files, save its output in `mydocumentstext.txt` and print a message
 
 1. In your terminal run the command `./forthChallenge.ksh`
 
 **Forth Challenge Output**
+
+![Alt text](4C.PNG?raw=true "Forth")
